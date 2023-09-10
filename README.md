@@ -17,6 +17,10 @@
 
 - 📫 How to reach me **se.michael.gobana@gmail.com**
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="mike-g-anu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://et.linkedin.com/in/mike-g-anu?trk=profile-badge">Michael G.Anu</a></div>
+              
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mike-g-anu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mike-g-anu/" target="_blank" height="30" width="40" /></a>
