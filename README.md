@@ -1,6 +1,6 @@
 <img align="right" src = "https://visitor-badge.laobi.icu/badge?page_id=Michael-enin.Michael-enin" />
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=100&duration=5000&lines=Hi+There!%20+%20I%27m%20Michael%20Gobena"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=100&duration=6000&lines=Hi+There!%20+%20I%27m%20Michael%20Gobena"/>
 </h3>
 <h2 align="center";background="green">
   Seasoned, Detail-focused and forward-looking <b>Senior Software Engineer</b>
