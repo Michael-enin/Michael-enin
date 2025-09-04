@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/michael-enin](https://github.com/michael-enin)
 
-- 💬 Ask me about **C#, .NET Core, Nodejs, Angular**
+- 💬 Ask me about **C#[.NET Core], Nodejs, Angular/React**
 
 - 📫 How to reach me **se.michael.gobana@gmail.com**            
 
